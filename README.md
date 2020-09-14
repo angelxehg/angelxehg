@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://angelxehg.com/pages/portfolio](https://angelxehg.com/pages/portfolio)
+- 👨‍💻 All of my projects are available at [https://angelxehg.com/pages/projects](https://angelxehg.com/pages/projects)
 
 - 📝 I write articles on [https://angelxehg.com/](https://angelxehg.com/)
 
