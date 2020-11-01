@@ -1,5 +1,5 @@
 <h1 align="center">Angel Hurtado</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Web developer/h3>
 
 - 🌱 I’m currently learning **React, Flutter**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **angular, ionic, django or python**
 
-- 📫 How to reach me **contact@angelxehg.com**
+- 📧 Email me **contact@angelxehg.com**
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
