@@ -1,5 +1,5 @@
 <h1 align="center">Angel Hurtado</h1>
-<h3 align="center">Web developer/h3>
+<h3 align="center">Web developer</h3>
 
 - 🌱 I’m currently learning **React, Flutter**
 
