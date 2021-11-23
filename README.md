@@ -2,10 +2,11 @@
 
 Desarrollador Web. Estudiante de Ingeniería en Tecnologías de la Información y Comunicación.
 
-- [Página web](https://angelxehg.com/)
+- [Portafolio](https://angelxehg.github.io)
+- [Platzi](https://platzi.com/p/angelxehg)
 - [LinkedIn](https://www.linkedin.com/in/angelxehg)
 - [Twitter](https://www.twitter.com/angelxehg)
-- [Instagram](https://www.instagram.com/angelxehg)
+- [Dev.to](https://dev.to/angelxehg)
 
 ## Educación
 
@@ -22,7 +23,7 @@ Ingeniería en Tecnologías de la Información y Comunicación
 
 **Herramientas**: NodeJS, NPM, Git, Markdown, Bootstrap
 
-**Plataformas**: Ubuntu, Netlify, AWS, Firebase, DigitalOcean
+**Plataformas**: Ubuntu, Netlify, Contentful, Firebase
 
 ## Aptitudes
 
